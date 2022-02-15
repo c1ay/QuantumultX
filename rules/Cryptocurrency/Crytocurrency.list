@@ -51,8 +51,6 @@ HOST-SUFFIX,thecryptoyou.io,Cryptocurrency
 HOST-SUFFIX,starsharks.com,Cryptocurrency
 HOST-SUFFIX,yooshi.io,Cryptocurrency
 
-# nft
-HOST-SUFFIX,opensea.io,Cryptocurrency
 
 # tool
 HOST-SUFFIX,mycointool.com,Cryptocurrency
@@ -67,3 +65,4 @@ HOST-SUFFIX,groupdao.io,Cryptocurrency
 
 # ntf
 HOST-SUFFIX,showme.fan,Cryptocurrency
+HOST-SUFFIX,opensea.io,Cryptocurrency
