@@ -36,6 +36,7 @@ HOST-SUFFIX,okex.com,Cryptocurrency
 HOST-SUFFIX,poloniex.com,Cryptocurrency
 HOST-SUFFIX,tradingview.com,Cryptocurrency
 HOST-SUFFIX,zb.com,Cryptocurrency
+HOST-SUFFIX,mexc.com,Cryptocurrency
 
 # 去中心化交易所
 HOST-SUFFIX,uniswap.org,Cryptocurrency
