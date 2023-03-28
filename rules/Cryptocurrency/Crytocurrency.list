@@ -81,3 +81,6 @@ HOST-SUFFIX,opensea.io,Cryptocurrency
 HOST-SUFFIX,tktube.com,Cryptocurrency
 
 HOST-SUFFIX,mirror.xyz,Cryptocurrency
+
+# ethscan
+HOST-SUFFIX,etherscan.io,Cryptocurrency
